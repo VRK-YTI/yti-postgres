@@ -1,4 +1,4 @@
 #!/bin/bash
 #
 #
-docker build -t yti-postgres:dev .
+docker build -t yti-postgres:latest .
