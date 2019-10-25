@@ -20,3 +20,8 @@ psql <<-EOSQL
 CREATE DATABASE "yti_comments";
 EOSQL
 #----------------------------------
+#----------------------------------
+psql <<-EOSQL
+CREATE DATABASE "yti_messaging";
+EOSQL
+#----------------------------------
